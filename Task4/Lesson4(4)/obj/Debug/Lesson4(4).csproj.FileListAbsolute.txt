@@ -1,7 +1,0 @@
-E:\Lessons\PW_4\Task4\Lesson4(4)\bin\Debug\Lesson4(4).exe.config
-E:\Lessons\PW_4\Task4\Lesson4(4)\bin\Debug\Lesson4(4).exe
-E:\Lessons\PW_4\Task4\Lesson4(4)\bin\Debug\Lesson4(4).pdb
-E:\Lessons\PW_4\Task4\Lesson4(4)\obj\Debug\Lesson4(4).csproj.AssemblyReference.cache
-E:\Lessons\PW_4\Task4\Lesson4(4)\obj\Debug\Lesson4(4).csproj.CoreCompileInputs.cache
-E:\Lessons\PW_4\Task4\Lesson4(4)\obj\Debug\Lesson4(4).exe
-E:\Lessons\PW_4\Task4\Lesson4(4)\obj\Debug\Lesson4(4).pdb
